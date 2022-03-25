@@ -1,0 +1,17 @@
+{
+    "name": "mile/hello",
+    "type": "library",
+    "authors": [
+        {
+            "name": "米乐",
+            "email": "16794640@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Mile\\Hello\\":"src/"
+        }
+    }
+}
