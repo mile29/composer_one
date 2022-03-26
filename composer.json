@@ -1,6 +1,7 @@
 {
     "name": "mile/hello",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "米乐",
